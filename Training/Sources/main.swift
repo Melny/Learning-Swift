@@ -23,6 +23,3 @@ print(reverse("Marek"))
 func warnTheSheep(_ queue: [String]) -> String {
     return ""
 }
-
-print(reverse("Marek"))
-print(reverse("Marek"))
